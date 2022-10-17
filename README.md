@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🏫 I’m currently in my second year of Software Engineer, at Avans Hogeschool in 'S Hertogenbosch 🇳🇱
+- 🏫 I’m currently in my second year of Software Engineer, at Avans Hogeschool in 's Hertogenbosch 🇳🇱
 
 - 🏡 Based in the Netherlands
 
