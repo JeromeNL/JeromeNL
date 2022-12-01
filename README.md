@@ -50,8 +50,8 @@
    <a href="https://www.microsoft.com/nl-nl/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
       width="40" height="40" /> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img
+      src="https://blog.tech-fellow.net/content/images/2019/04/asp-net-mvc-1-.jpg" alt="aspNET"
       width="40" height="40" /> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git"
