@@ -7,7 +7,7 @@ Student Software Engineering
 * 🌍  I'm based in The Netherlands 🇳🇱
 * 🖥️  Visit my website at [joramkwetters.nl](http://www.joramkwetters.nl)
 * ✉️  You can contact me at [mail@joramkwetters.nl](mailto:mail@joramkwetters.nl)
-* 🧠  I'm Student Software Engineering at Avans Hogeschool ('s-Hertogenbosch)
+* 🏫  I'm Student Software Engineering at Avans Hogeschool ('s-Hertogenbosch)
 
 ### Skills
 
