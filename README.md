@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joram Kwetters</h1>
 <h3 align="center">Student Software Engineering</h3>
 
+* 🌍  I'm based in The Netherlands 🇳🇱
+* 🖥️  Visit my website at [joramkwetters.nl](http://www.joramkwetters.nl)
+* ✉️  You can contact me at [mail@joramkwetters.nl](mailto:mail@joramkwetters.nl)
+* 🏫  I'm Student Software Engineering at Avans Hogeschool ('s-Hertogenbosch)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joram kwetters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joram kwetters" height="30" width="40" /></a>
