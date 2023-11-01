@@ -4,7 +4,7 @@
 * 🌍  I'm based in The Netherlands 🇳🇱
 * 🖥️  Visit my website at [joramkwetters.nl](http://www.joramkwetters.nl)
 * ✉️  You can contact me at [mail@joramkwetters.nl](mailto:mail@joramkwetters.nl)
-* 🏫  I'm Student Software Engineering at [Avans Hogeschool 's-Hertogenbosch]((https://www.studyinholland.co.uk/news/avans_named_best_university_of_applied_sciences_in_the_.html#:~:text=For%20the%2010th%20time%20in,especially%20during%20the%20coronavirus%20pandemic.)
+* 🏫  I'm Student Software Engineering at [Avans Hogeschool 's-Hertogenbosch](https://www.studyinholland.co.uk/news/avans_named_best_university_of_applied_sciences_in_the_.html#:~:text=For%20the%2010th%20time%20in,especially%20during%20the%20coronavirus%20pandemic.)
 
 
 <h3 align="left">Connect with me:</h3>
