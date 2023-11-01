@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joram Kwetters</h1>
 <h3 align="center">Student Software Engineering</h3>
 
+* 🌍  I'm based in The Netherlands 🇳🇱
+* 🖥️  Visit my website at [joramkwetters.nl](http://www.joramkwetters.nl)
+* ✉️  You can contact me at [mail@joramkwetters.nl](mailto:mail@joramkwetters.nl)
+* 🏫  I'm Student Software Engineering at [Avans Hogeschool](https://www.studyinholland.co.uk/news/avans_named_best_university_of_applied_sciences_in_the_.html#:~:text=For%20the%2010th%20time%20in,especially%20during%20the%20coronavirus%20pandemic.) in 's-Hertogenbosch.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joram kwetters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joram kwetters" height="30" width="40" /></a>
-<a href="https://instagram.com/joram03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joram03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dronejerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dronejerome" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeromenl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeromenl" height="30" width="40" /></a>
+@@ -16,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
